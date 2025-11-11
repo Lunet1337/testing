@@ -1,0 +1,6 @@
+### Database ###
+### For Postgres Docker container ###
+# NOT USED BY THE APP ITSELF
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_DB=postgres
